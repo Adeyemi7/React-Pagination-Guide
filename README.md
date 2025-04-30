@@ -63,5 +63,5 @@ Tailwind CSS can be used to style pagination components.
 
 ### For issues or contributions, open an issue or create a pull request on the repository.
 
-S
+
 
