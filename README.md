@@ -56,7 +56,7 @@ yarn build
 
 This creates optimized output in the dist folder.
 
-5. Previewing the Production Build
+### 5. Previewing the Production Build
 To preview the production build locally using npm:
 
 bash
